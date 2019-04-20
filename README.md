@@ -1,2 +1,2 @@
 # latex
-TeX Live in Docker 
+TeX Live full installation in Docker including texlive-fonts-extra. 
